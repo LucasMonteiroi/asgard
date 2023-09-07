@@ -1,7 +1,7 @@
 {
   "name": "asgard",
   "version": "0.0.1",
-  "description": "A wrapper library to help developers to create apps faster",
+  "description": "",
   "main": "dist/index.js",
   "repository": "git@github.com:LucasMonteiroi/asgard.git",
   "author": "Lucas Monteiro Inacio <lmsupport@outlook.com>",
